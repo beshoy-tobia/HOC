@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HOC</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string-array name="directions">
+        <item>x</item>
+        <item>-x</item>
+        <item>y</item>
+        <item>-y</item>
+        <item>z</item>
+        <item>-z</item>
+    </string-array>
+
+    <string name="action_settings">Settings</string>
+</resources>
